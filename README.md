@@ -1,4 +1,8 @@
-accounting
+.markdown-here-wrapper {
+  font-family: Verdana, sans;
+}
+
+Accounting
 ==========
 
 Accounting project to Mibuz test

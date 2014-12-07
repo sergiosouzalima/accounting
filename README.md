@@ -18,16 +18,17 @@ Accounting project to Mibuz test
 
 <br />
 
-<p>2.1.2 :011 > p.get_balance_sheet
-<p>CODIGOS CONTAS SALDO ANT DEBITO CREDITO SLD ATUAL
-<p>1 Ativo......................... R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00
-<p>1.1 Ativo.Circulante.............. R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00
-<p>1.1.1 Disponibilidades.............. R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00
-<p>1.1.1.1 Caixa......................... R$ 100.000,00 R$ 1.400.000,00 R$ 603.450,00 R$ 0,00
-<p>1.1.1.2 Banco......................... R$ 455.501,00 R$ 0,00 R$ 28.700,00 R$ 0,00
-<p>1.1.1.3 Aplicacoes.Financeiras........ R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00
-<p>1.1.2 Creditos.(Valores.a.Receber).. R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00
-<p>1.1.2.1 Clientes...................... R$ 6.000,00 R$ 0,00 R$ 0,00 R$ 0,00
+<p>2.1.2 :011 > p.get_balance_sheet<br />
+CODIGOS CONTAS SALDO ANT DEBITO CREDITO SLD ATUAL<br />
+1 Ativo......................... R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00<br />
+1.1 Ativo.Circulante.............. R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00<br />
+1.1.1 Disponibilidades.............. R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00<br />
+1.1.1.1 Caixa......................... R$ 100.000,00 R$ 1.400.000,00 R$ 603.450,00 R$ 0,00<br />
+1.1.1.2 Banco......................... R$ 455.501,00 R$ 0,00 R$ 28.700,00 R$ 0,00<br />
+1.1.1.3 Aplicacoes.Financeiras........ R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00<br />
+1.1.2 Creditos.(Valores.a.Receber).. R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00<br />
+1.1.2.1 Clientes...................... R$ 6.000,00 R$ 0,00 R$ 0,00 R$ 0,00<br />
+</p>
 
 <br />
 

@@ -17,7 +17,6 @@ Accounting project to Mibuz test
 > p.add_account( Account.new('1.1.2.1','Clientes',6000.00,0) )<br />
 </p>
 
-<br />
 
 <p>2.1.2 :011 > p.get_balance_sheet<br />
 CODIGOS CONTAS SALDO ANT DEBITO CREDITO SLD ATUAL<br />
@@ -31,11 +30,7 @@ CODIGOS CONTAS SALDO ANT DEBITO CREDITO SLD ATUAL<br />
 1.1.2.1 Clientes...................... R$ 6.000,00 R$ 0,00 R$ 0,00 R$ 0,00<br />
 </p>
 
-<br />
-
 <p>2.1.2 :012 > p.summarize</p>
-
-<br />
 
 <p>
 2.1.2 :013 > p.get_balance_sheet<br />

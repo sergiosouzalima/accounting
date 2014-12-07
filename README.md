@@ -1,5 +1,12 @@
-.markdown-here-wrapper {
-  font-family: Verdana, sans;
+body{
+color:#444;
+font-family:Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
+font-size:12px;
+line-height:1.5em;
+padding:1em;
+margin:auto;
+max-width:42em;
+background:#fefefe;
 }
 
 Accounting
